@@ -47,10 +47,6 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='bootstrap-style-css' href='wp-content/themes/new-icse/assets/css/bootstrap.min.css' media='all' />
-    <link rel='stylesheet' id='ekiline-style-css' href='wp-content/themes/new-icse/style.css' media='all' />
-    <link rel='stylesheet' id='dashicons-css' href='wp-content/themes/new-icse/assets/css/dashicons.min.css' media='all' />
-    <link rel='stylesheet' id='wp-block-library-css' href='wp-content/themes/new-icse/assets/css/style.min.css?v=0.0.1' media='all' />
 </head>
 
 <body class="home page-template-default page page-id-61 wp-embed-responsive has-navbar-static-top has-custom-header">
